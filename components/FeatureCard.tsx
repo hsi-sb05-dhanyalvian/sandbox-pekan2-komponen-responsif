@@ -29,17 +29,17 @@ const FeatureCard = ({ icon, title, description }: FeatureCardProps) => {
   return (
     <div className="
       p-6
-      bg-slate-800
+      bg-lucide-panel
       rounded-2xl
-      shadow-xl hover:shadow-xl/20
       cursor-pointer
       text-center
+      hover:shadow-lg
     ">
-      <div className="flex justify-center items-center mb-4 h-12 w-12 rounded-full bg-slate-700 mx-auto text-slate-400">
+      <div className="flex justify-center items-center mb-6 h-16 w-16 mx-auto rounded-full bg-lucide-frame text-lucide-red">
         <Icons icon={icon} />
       </div>
-      <h3 className="text-slate-100 text-xl font-bold mb-2">{title}</h3>
-      <p className="text-slate-400">{description}</p>
+      <h3 className="text-lucide-title text-xl font-bold mb-3">{title}</h3>
+      <p className="text-lucide-subtitle text-sm leading-6">{description}</p>
     </div>
   );
 }
