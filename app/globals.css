@@ -3,10 +3,12 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
-  
-  --lcd-panel: #f6f6f7;
+
+  /* --lcd-panel: #f6f6f7; */
+  --lcd-panel: #f5f5f7;
   --lcd-frame: #ffffff;
-  --lcd-border: var(--color-gray-200);
+  --lcd-border: #d6d6d6;
+  /* --lcd-border: var(--color-gray-200); */
   --lcd-title: #3c3c43;
   --lcd-subtitle: #67676c;
 }
@@ -14,18 +16,18 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  
+
   --color-lucide-black: #3c3c43;
   --color-lucide-red: #f56767;
   --color-lucide-gray: #67676c;
   --color-lucide-slate: #f6f6f7;
-  
+
   --color-lucide-panel: var(--lcd-panel);
   --color-lucide-frame: var(--lcd-frame);
   --color-lucide-border: var(--lcd-border);
   --color-lucide-title: var(--lcd-title);
   --color-lucide-subtitle: var(--lcd-subtitle);
-  
+
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
@@ -34,7 +36,7 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
-    
+
     --lcd-panel: #202127;
     --lcd-frame: #1b1b1f;
     --lcd-border: #202127;
