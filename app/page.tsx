@@ -9,8 +9,8 @@ const SmartWatchPage = () => {
     <div className="container mx-auto px-4 py-12">
       <section className="text-center">
         <Image
-          src="/photos/apple-watch-se.png"
-          alt="Redmi Watch 5"
+          src="/images/apple-watch-se-500x395.png"
+          alt="Apple Watch SE"
           width={500}
           height={395}
           className="mx-auto mb-8"
