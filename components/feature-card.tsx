@@ -17,7 +17,7 @@ const FeatureCard = ({ icon, title, description }: FeatureCardProps) => {
       rounded-2xl
       cursor-pointer
       text-center
-      border border-gray-200
+      border border-lucide-border
       hover:shadow-xl
     ">
       <div className="flex justify-center items-center mb-6 size-14 mx-auto rounded-full bg-lucide-frame text-lucide-red">

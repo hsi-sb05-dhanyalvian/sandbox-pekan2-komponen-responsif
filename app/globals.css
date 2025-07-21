@@ -6,6 +6,7 @@
   
   --lcd-panel: #f6f6f7;
   --lcd-frame: #ffffff;
+  --lcd-border: var(--color-gray-200);
   --lcd-title: #3c3c43;
   --lcd-subtitle: #67676c;
 }
@@ -21,6 +22,7 @@
   
   --color-lucide-panel: var(--lcd-panel);
   --color-lucide-frame: var(--lcd-frame);
+  --color-lucide-border: var(--lcd-border);
   --color-lucide-title: var(--lcd-title);
   --color-lucide-subtitle: var(--lcd-subtitle);
   
@@ -35,6 +37,7 @@
     
     --lcd-panel: #202127;
     --lcd-frame: #1b1b1f;
+    --lcd-border: #202127;
     --lcd-title: #ffffff;
     --lcd-subtitle: #98989f;
   }
