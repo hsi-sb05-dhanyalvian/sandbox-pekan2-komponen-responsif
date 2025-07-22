@@ -1,13 +1,14 @@
 //- app/page.tsx
 
 import FeatureSection from "@/components/feature-section";
+import Footer from "@/components/footer";
 import Navbar from "@/components/navbar";
 import TestimonialSection from "@/components/testimonial-section";
 import Image from "next/image";
 
 const SmartWatchPage = () => {
   return (
-    <div className="">
+    <div>
       <Navbar />
 
       <div className="container mx-auto px-4 py-12 pt-24">
@@ -43,7 +44,10 @@ const SmartWatchPage = () => {
 
         <TestimonialSection />
       </div>
+
+      <Footer />
     </div>
+
   );
 }
 

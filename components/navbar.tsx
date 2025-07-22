@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 const Navbar = () => {
   return (
     <nav className="
@@ -8,11 +6,11 @@ const Navbar = () => {
       w-full
       justify-between
       border-b border-b-lucide-border
-      bg-white bg-opacity-50 backdrop-blur-xl
+      bg-lucide-nav
       shadow-xs
     ">
       <div className="container mx-auto md:px-4 relative flex items-center justify-between">
-        <div className="flex flex-1 font-lg font-bold text-lucide-black">
+        <div className="flex flex-1 font-lg font-bold text-lucide-title">
           Apple Watch SE
         </div>
         
