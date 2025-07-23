@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "slug": "apple-watch-se",
+    "name": "Apple Watch SE",
+    "tagline": "Kemampuan memukau yang terjangkau.",
+    "image": {
+      "src": "http://localhost:3000/images/apple-watch-se-500x395.png",
+      "width": 500,
+      "height": 395
+    },
+    "features": [
+      {
+        "icon": "connect",
+        "title": "Konektivitas",
+        "description": "Tetap terhubung di sini, di sana, di mana-mana. Jawab panggilan ketika sedang berlari. Balas pesan teks dengan cepat ketika sedang rapat. Atau dengarkan musik dalam perjalanan. Selama ponsel berada di dekat Anda, semua bisa Anda lakukan dari pergelangan tangan."
+      },
+      {
+        "icon": "heart",
+        "title": "Detak Jantung",
+        "description": "Pantau kesehatan jantung Anda tanpa ada yang terlewatkan. Periksa detak jantung Anda kapan saja dengan aplikasi Detak Jantung. Dapatkan pemberitahuan untuk detak jantung tinggi atau rendah atau ritme tidak teratur."
+      },
+      {
+        "icon": "sport",
+        "title": "Partner olahraga canggih",
+        "description": "Dari latihan kekuatan dan HIIT hingga Pilates dan yoga, Apple Watch menghadirkan berbagai cara sehat untuk memantau olahraga Anda. Dan menunjukkan kemajuan Anda dengan tampilan dan metrik canggih seperti Zona Detak Jantung, Tenaga, dan Elevasi."
+      },
+      {
+        "icon": "water-resist",
+        "title": "Tahan air",
+        "description": "Apple Watch SE memiliki level tahan air 50 meter. Lacak waktu dan set Anda di kolam renang, dan buat Olahraga Khusus untuk berenang di kolam. Dapatkan data pasang surut air laut untuk pantai favorit Anda dengan aplikasi Gelombang. Dipakai untuk main air, berenang, atau berselancar, tidak masalah."
+      },
+      {
+        "icon": "activity",
+        "title": "Aktivitas",
+        "description": "Pantau aktivitas harian Anda — seperti berdiri, bergerak, dan berolahraga — dengan lingkaran Aktivitas. Jeda lingkaran Aktivitas Anda dan sesuaikan target Anda untuk masing-masing hari dalam seminggu. Apa pun target kebugaran Anda, Apple Watch siap memotivasi Anda."
+      }
+    ],
+    "testimonies": [
+      {
+        "photo": "/photos/hacker.png",
+        "name": "Khalid",
+        "role": "Software Engineer",
+        "quote": "Apple Watch SE saya sangat awet. Saya bekerja di lingkungan yang cukup padat, dan sempat terbentur beberapa kali, tetapi layarnya tetap kokoh. Integrasinya dengan iPhone saya lancar, dan saya sangat senang bisa menggunakan Apple Pay tanpa perlu mengeluarkan dompet. Jam tangan ini praktis dan tangguh untuk penggunaan sehari-hari."
+      },
+      {
+        "photo": "/photos/man.png",
+        "name": "Zubayr",
+        "role": "Marketing Professional",
+        "quote": "Awalnya saya membeli Apple Watch SE untuk notifikasi dasar dan pelacakan kebugaran, dan ternyata melebihi ekspektasi saya. Cincin aktivitasnya benar-benar memotivasi saya untuk lebih banyak bergerak, dan saya senang bisa dengan cepat memeriksa pesan dan mengontrol musik langsung dari pergelangan tangan saya. Jam tangan ini benar-benar menjadi pendamping yang tak tergantikan untuk gaya hidup aktif saya."
+      },
+      {
+        "photo": "/photos/circle-user.png",
+        "name": "Aisha",
+        "role": "Freelance Designer",
+        "quote": "Saya mendapatkan Apple Watch SE sebagai hadiah, dan saya sangat senang menerimanya. Jam tangan ini membuat saya tetap terhubung tanpa harus terus-menerus terpaku pada ponsel. Saya menggunakannya untuk mencatat waktu lari, mengatur timer, dan mendapatkan petunjuk arah sambil berjalan-jalan di Tangerang. Daya tahan baterainya bisa bertahan seharian penuh, bahkan dengan penggunaan yang konsisten. Jam tangan ini benar-benar membuat rutinitas harian saya lebih efisien."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "slug": "redmi-watch-5",
+    "name": "Redmi Watch 5",
+    "tagline": "Lihat lebih, lakukan lebih.",
+    "image": {
+      "src": "http://localhost:3000/images/redmi-watch-5-499x265.png",
+      "width": 499,
+      "height": 265
+    },
+    "features": [
+      {
+        "icon": "screen",
+        "title": "Bezel ultra-tipis",
+        "description": "Ukuran yang sama, layar yang lebih besar. Mengadopsi teknologi penyegelan pengisian vakum mutakhir untuk mewujudkan bezel segi empat ramping 2 mm yang mengagumkan dan layar AMOLED 2,07”, Redmi Watch 5 memamerkan performa visual yang luar biasa."
+      },
+      {
+        "icon": "battery",
+        "title": "Masa pakai baterai 24 hari",
+        "description": "Bertahan hingga lebih dari 3 minggu. 24 hari mode penggunaan umum. +20% masa pakai baterai yang ditingkatkan."
+      },
+      {
+        "icon": "record",
+        "title": "Perekam independen",
+        "description": "Dari catatan rapat hingga rekaman mendadak, kuliah kelas, dan bahkan mengumpulkan bukti investigasi. Inilah perekam suara portabel Anda, memungkinkan Anda untuk merekam setiap momen dengan mudah."
+      },
+      {
+        "icon": "water-resist",
+        "title": "Ketahanan air profesional",
+        "description": "Dengan peringkat ketahanan air 5 ATM, jam tangan ini cocok untuk 18 olahraga air, memungkinkan Anda untuk menikmati aktivitas air dengan bebas."
+      },
+      {
+        "icon": "clock",
+        "title": "Wajah jam baru",
+        "description": "Temukan pilihan lebih dari 200 wajah jam yang dipersonalisasi, atau kustomisasi jam Anda dengan potret. Tunjukkan foto favorit Anda dan pancarkan kepribadian Anda dengan bebas."
+      }
+    ],
+    "testimonies": [
+      {
+        "photo": "/photos/circle-user.png",
+        "name": "Aisha",
+        "role": "Freelance Designer",
+        "quote": "Saya mendapatkan Apple Watch SE sebagai hadiah, dan saya sangat senang menerimanya. Jam tangan ini membuat saya tetap terhubung tanpa harus terus-menerus terpaku pada ponsel. Saya menggunakannya untuk mencatat waktu lari, mengatur timer, dan mendapatkan petunjuk arah sambil berjalan-jalan di Tangerang. Daya tahan baterainya bisa bertahan seharian penuh, bahkan dengan penggunaan yang konsisten. Jam tangan ini benar-benar membuat rutinitas harian saya lebih efisien."
+      },
+      {
+        "photo": "/photos/man.png",
+        "name": "Zubayr",
+        "role": "Marketing Professional",
+        "quote": "Awalnya saya membeli Apple Watch SE untuk notifikasi dasar dan pelacakan kebugaran, dan ternyata melebihi ekspektasi saya. Cincin aktivitasnya benar-benar memotivasi saya untuk lebih banyak bergerak, dan saya senang bisa dengan cepat memeriksa pesan dan mengontrol musik langsung dari pergelangan tangan saya. Jam tangan ini benar-benar menjadi pendamping yang tak tergantikan untuk gaya hidup aktif saya."
+      },
+      {
+        "photo": "/photos/hacker.png",
+        "name": "Khalid",
+        "role": "Software Engineer",
+        "quote": "Apple Watch SE saya sangat awet. Saya bekerja di lingkungan yang cukup padat, dan sempat terbentur beberapa kali, tetapi layarnya tetap kokoh. Integrasinya dengan iPhone saya lancar, dan saya sangat senang bisa menggunakan Apple Pay tanpa perlu mengeluarkan dompet. Jam tangan ini praktis dan tangguh untuk penggunaan sehari-hari."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "slug": "xiaomi-smart-band-10",
+    "name": "Xiaomi Smart Band 10",
+    "tagline": "Serasi untuk berbagai gaya.",
+    "image": {
+      "src": "http://localhost:3000/images/xiaomi-smart-band-10-500x330.png",
+      "width": 500,
+      "height": 330
+    },
+    "features": [
+      {
+        "icon": "screen",
+        "title": "Layar AMOLED 1,72”",
+        "description": "Teknologi penyegelan pengisian vakum menjadikan bezel ultra-tipis 2,0 mm simetris dengan rasio layar terhadap bodi dari 66% menjadi 73%. Nikmati pengalaman menonton yang lebih imersif dengan kejernihan yang lebih baik."
+      },
+      {
+        "icon": "brightness",
+        "title": "Kecerahan HBM 1.500 nit",
+        "description": "Mudah dibaca dalam segala situasi. 25% lebih terang dari sebelumnya dengan kecerahan HBM 1.500 nit yang luar biasa agar setiap pesan dapat dibaca bahkan di bawah terik sinar matahari langsung."
+      },
+      {
+        "icon": "metal",
+        "title": "Bodi metalik premium",
+        "description": "Desain sekelas perhiasan untuk pergelangan tangan Anda. 10,95mm ringkas dan tipis. 15,95g ringan dan nyaman."
+      },
+      {
+        "icon": "ceramic",
+        "title": "Xiaomi Smart Band 10 Ceramic Edition",
+        "description": "Kemilau putih bersih. Xiaomi Smart Band memperkenalkan bingkai keramik yang ramping, dan dilengkapi gesper keramik serta strap fluororubber putih yang memancarkan aura keanggunan taktil yang elegan."
+      },
+      {
+        "icon": "heart",
+        "title": "Siaran detak jantung",
+        "description": "Panduan profesional saat bersepeda. Xiaomi Smart Band 10 mendeteksi data detak jantung real-time yang dapat ditransmisikan melalui Bluetooth ke speedometer pesepeda untuk pelacakan yang tepat dan latihan yang berbasis bukti ilmiah."
+      }
+    ],
+    "testimonies": [
+      {
+        "photo": "/photos/man.png",
+        "name": "Zubayr",
+        "role": "Marketing Professional",
+        "quote": "Awalnya saya membeli Apple Watch SE untuk notifikasi dasar dan pelacakan kebugaran, dan ternyata melebihi ekspektasi saya. Cincin aktivitasnya benar-benar memotivasi saya untuk lebih banyak bergerak, dan saya senang bisa dengan cepat memeriksa pesan dan mengontrol musik langsung dari pergelangan tangan saya. Jam tangan ini benar-benar menjadi pendamping yang tak tergantikan untuk gaya hidup aktif saya."
+      },
+      {
+        "photo": "/photos/hacker.png",
+        "name": "Khalid",
+        "role": "Software Engineer",
+        "quote": "Apple Watch SE saya sangat awet. Saya bekerja di lingkungan yang cukup padat, dan sempat terbentur beberapa kali, tetapi layarnya tetap kokoh. Integrasinya dengan iPhone saya lancar, dan saya sangat senang bisa menggunakan Apple Pay tanpa perlu mengeluarkan dompet. Jam tangan ini praktis dan tangguh untuk penggunaan sehari-hari."
+      },
+      {
+        "photo": "/photos/circle-user.png",
+        "name": "Aisha",
+        "role": "Freelance Designer",
+        "quote": "Saya mendapatkan Apple Watch SE sebagai hadiah, dan saya sangat senang menerimanya. Jam tangan ini membuat saya tetap terhubung tanpa harus terus-menerus terpaku pada ponsel. Saya menggunakannya untuk mencatat waktu lari, mengatur timer, dan mendapatkan petunjuk arah sambil berjalan-jalan di Tangerang. Daya tahan baterainya bisa bertahan seharian penuh, bahkan dengan penggunaan yang konsisten. Jam tangan ini benar-benar membuat rutinitas harian saya lebih efisien."
+      }
+    ]
+  }
+]
