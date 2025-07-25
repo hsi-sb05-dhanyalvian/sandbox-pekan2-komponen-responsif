@@ -28,7 +28,7 @@ const Navbar = (params: paramProps) => {
       w-full
       justify-between
       border-b border-b-lucide-border
-      bg-lucide-nav
+      bg-lucide-nav/80 backdrop-blur-md 
       shadow-xs
     ">
       <div className="container mx-auto md:px-4 relative flex items-center justify-between">
