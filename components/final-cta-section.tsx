@@ -4,7 +4,7 @@ import { handleBuyNow } from "./button";
 
 const FinalCtaSection = () => {
   return (
-    <div className="container mx-auto text-center justify-between py-8">
+    <div className="container mx-auto text-center justify-between px-4 py-8">
       <div className="text-3xl font-bold text-center mb-5 text-lucide-title">
         Segera dapatkan hari ini!
       </div>
