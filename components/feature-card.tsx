@@ -23,7 +23,7 @@ const FeatureCard = ({ icon, title, description }: FeatureCardProps) => {
       <div className="flex justify-center items-center mb-6 size-14 mx-auto rounded-full bg-lucide-frame text-lucide-red">
         <Icons icon={icon} size={32}/>
       </div>
-      <h3 className="text-lucide-title text-xl font-bold mb-3">{title}</h3>
+      <div className="text-lucide-title text-xl font-bold mb-3">{title}</div>
       <p className="text-lucide-subtitle text-sm leading-6">{description}</p>
     </div>
   );

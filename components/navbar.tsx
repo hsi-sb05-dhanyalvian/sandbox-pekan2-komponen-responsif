@@ -3,6 +3,7 @@
 'use client';
 
 import React, { useEffect, useState } from 'react';
+import { handleBuyNow } from './button';
 const Navbar = () => {
   const [scrolledDown, setScrolledDown] = useState(false);
 
@@ -40,8 +41,9 @@ const Navbar = () => {
             shadow-md
             transition-all duration-300
             ${scrolledDown ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}
+            onClick={handleBuyNow}
           >
-            Beli
+            Beli Sekarang
           </button>
         </div>
       </div>

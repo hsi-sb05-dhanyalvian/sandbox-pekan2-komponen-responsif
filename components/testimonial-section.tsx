@@ -26,9 +26,9 @@ const testimonials = [
 const TestimonialSection = () => {
   return (
     <section className="mt-20">
-      <h2 className="text-3xl font-bold text-center mb-10 text-lucide-title">
+      <div className="text-3xl font-bold text-center mb-10 text-lucide-title">
         Apa Kata Mereka
-      </h2>
+      </div>
 
       <div className="grid grid-cols-1 md:grid-cols-3 max-w-4xl mx-auto gap-8">
         {testimonials.map((testimony) => (
