@@ -14,6 +14,7 @@ const SmartWatchPage = () => {
       <div className="container mx-auto px-4 py-12 pt-24">
         <section className="text-center">
           <Image
+            priority={true}
             rel="preload"
             src="/images/apple-watch-se-500x395.png"
             alt="Apple Watch SE"
